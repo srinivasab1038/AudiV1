@@ -1,0 +1,582 @@
+2020-12-13 19:50:19,524 - AudiV1 -INFO - URL is opened
+2020-12-13 19:50:32,226 - AudiV1 -INFO - User name is entered
+2020-12-13 19:50:32,449 - AudiV1 -INFO - Password is entered
+2020-12-13 19:50:37,325 - AudiV1 -INFO - Clicked submit
+2020-12-14 00:15:22,227 - AudiV1 -INFO - URL is opened
+2020-12-14 00:16:28,347 - AudiV1 -INFO - URL is opened
+2020-12-14 00:16:36,919 - AudiV1 -INFO - User name is entered
+2020-12-14 00:16:37,775 - AudiV1 -INFO - Password is entered
+2020-12-14 00:16:41,138 - AudiV1 -INFO - Clicked submit
+2020-12-14 04:52:25,437 - AudiV1 -INFO - URL is opened
+2020-12-14 04:52:43,122 - AudiV1 -INFO - User name is entered
+2020-12-14 04:52:43,754 - AudiV1 -INFO - Password is entered
+2020-12-14 04:52:46,207 - AudiV1 -INFO - Clicked submit
+2020-12-14 04:54:21,389 - AudiV1 -INFO - URL is opened
+2020-12-14 04:54:22,366 - AudiV1 -INFO - User name is entered
+2020-12-14 04:54:22,510 - AudiV1 -INFO - Password is entered
+2020-12-14 04:54:23,924 - AudiV1 -INFO - Clicked submit
+2020-12-14 05:02:14,873 - AudiV1 -INFO - URL is opened
+2020-12-14 05:03:07,426 - AudiV1 -INFO - URL is opened
+2020-12-14 05:03:30,166 - AudiV1 -INFO - User name is entered
+2020-12-14 05:03:30,387 - AudiV1 -INFO - Password is entered
+2020-12-14 05:03:31,247 - AudiV1 -INFO - Clicked submit
+2020-12-14 05:03:56,129 - AudiV1 -INFO - URL is opened
+2020-12-14 05:04:04,473 - AudiV1 -INFO - User name is entered
+2020-12-14 05:04:04,693 - AudiV1 -INFO - Password is entered
+2020-12-14 05:04:06,160 - AudiV1 -INFO - Clicked submit
+2020-12-14 05:05:05,198 - AudiV1 -INFO - URL is opened
+2020-12-14 05:05:12,273 - AudiV1 -INFO - User name is entered
+2020-12-14 05:05:12,522 - AudiV1 -INFO - Password is entered
+2020-12-14 05:05:13,868 - AudiV1 -INFO - Clicked submit
+2020-12-14 05:23:04,987 - AudiV1 -INFO - URL is opened
+2020-12-14 05:23:22,792 - AudiV1 -INFO - User name is entered
+2020-12-14 05:23:23,052 - AudiV1 -INFO - Password is entered
+2020-12-14 05:23:25,862 - AudiV1 -INFO - Clicked submit
+2020-12-17 21:13:21,985 - AudiV1 -INFO - URL is opened
+2020-12-17 21:13:33,494 - AudiV1 -INFO - User name is entered
+2020-12-17 21:13:33,725 - AudiV1 -INFO - Password is entered
+2020-12-17 21:13:36,169 - AudiV1 -INFO - Clicked submit
+2020-12-17 21:13:36,452 - AudiV1 -INFO - Login test passed
+2020-12-17 21:45:07,796 - AudiV1 -INFO - URL is opened
+2020-12-17 21:45:31,524 - AudiV1 -INFO - User name is entered
+2020-12-17 21:45:31,919 - AudiV1 -INFO - Password is entered
+2020-12-17 21:45:34,717 - AudiV1 -INFO - Clicked submit
+2020-12-17 21:45:34,755 - AudiV1 -INFO - Login test passed
+2020-12-17 21:46:15,442 - AudiV1 -INFO - URL is opened
+2020-12-17 21:46:15,925 - AudiV1 -INFO - User name is entered
+2020-12-17 21:46:16,084 - AudiV1 -INFO - Password is entered
+2020-12-17 21:46:19,010 - AudiV1 -INFO - Clicked submit
+2020-12-17 21:46:19,042 - AudiV1 -INFO - Login test passed
+2020-12-17 22:46:57,548 - AudiV1 -INFO - URL is opened
+2020-12-17 22:47:28,848 - AudiV1 -INFO - User name is entered
+2020-12-17 22:47:29,058 - AudiV1 -INFO - Password is entered
+2020-12-17 22:47:30,843 - AudiV1 -INFO - Clicked submit
+2020-12-17 22:47:30,885 - AudiV1 -INFO - Login test passed
+2020-12-17 22:48:18,879 - AudiV1 -INFO - URL is opened
+2020-12-17 22:48:40,405 - AudiV1 -INFO - User name is entered
+2020-12-17 22:48:41,091 - AudiV1 -INFO - Password is entered
+2020-12-17 22:48:44,771 - AudiV1 -INFO - Clicked submit
+2020-12-17 22:48:44,887 - AudiV1 -INFO - Login test passed
+2020-12-17 22:49:20,926 - AudiV1 -INFO - URL is opened
+2020-12-17 22:49:23,721 - AudiV1 -INFO - User name is entered
+2020-12-17 22:49:23,953 - AudiV1 -INFO - Password is entered
+2020-12-17 22:49:25,381 - AudiV1 -INFO - Clicked submit
+2020-12-17 22:49:25,415 - AudiV1 -INFO - Login test passed
+2020-12-17 22:49:39,226 - AudiV1 -INFO - URL is opened
+2020-12-17 22:49:39,533 - AudiV1 -INFO - User name is entered
+2020-12-17 22:49:39,734 - AudiV1 -INFO - Password is entered
+2020-12-17 22:49:41,736 - AudiV1 -INFO - Clicked submit
+2020-12-17 22:49:41,773 - AudiV1 -INFO - Login test passed
+2020-12-21 15:55:46,793 - AudiV1 -INFO - URL is opened
+2020-12-21 15:56:30,141 - AudiV1 -INFO - User name is entered
+2020-12-21 15:56:30,360 - AudiV1 -INFO - Password is entered
+2020-12-21 15:56:33,582 - AudiV1 -INFO - Clicked submit
+2020-12-21 15:56:33,613 - AudiV1 -INFO - Login test passed
+2020-12-21 15:57:32,463 - AudiV1 -INFO - URL is opened
+2020-12-21 15:57:42,991 - AudiV1 -INFO - User name is entered
+2020-12-21 15:57:43,499 - AudiV1 -INFO - Password is entered
+2020-12-21 15:57:46,323 - AudiV1 -INFO - Clicked submit
+2020-12-21 15:57:46,352 - AudiV1 -INFO - Login test passed
+2020-12-21 17:13:02,316 - AudiV1 -INFO - URL is opened
+2020-12-21 17:13:31,313 - AudiV1 -INFO - User name is entered
+2020-12-21 17:13:31,661 - AudiV1 -INFO - Password is entered
+2020-12-21 17:13:35,245 - AudiV1 -INFO - Clicked submit
+2020-12-23 21:13:15,171 - AudiV1 -INFO - user name provided
+2020-12-23 21:13:15,577 - AudiV1 -INFO - password provided
+2020-12-23 21:13:22,758 - AudiV1 -INFO - Login passed
+2020-12-23 21:13:32,203 - AudiV1 -INFO - user name provided
+2020-12-23 21:13:32,443 - AudiV1 -INFO - password provided
+2020-12-23 21:13:39,180 - AudiV1 -INFO - user name provided
+2020-12-23 21:13:39,365 - AudiV1 -INFO - password provided
+2020-12-23 21:13:45,245 - AudiV1 -INFO - user name provided
+2020-12-23 21:13:45,472 - AudiV1 -INFO - password provided
+2020-12-23 21:13:50,674 - AudiV1 -INFO - Login passed
+2020-12-23 21:13:58,152 - AudiV1 -INFO - user name provided
+2020-12-23 21:13:58,576 - AudiV1 -INFO - password provided
+2020-12-23 22:08:54,827 - AudiV1 -INFO - user name provided
+2020-12-23 22:08:55,178 - AudiV1 -INFO - password provided
+2020-12-23 22:09:04,568 - AudiV1 -INFO - Login passed
+2020-12-23 22:09:14,441 - AudiV1 -INFO - user name provided
+2020-12-23 22:09:14,718 - AudiV1 -INFO - password provided
+2020-12-23 22:09:21,364 - AudiV1 -INFO - user name provided
+2020-12-23 22:09:21,552 - AudiV1 -INFO - password provided
+2020-12-23 22:09:27,690 - AudiV1 -INFO - user name provided
+2020-12-23 22:09:27,904 - AudiV1 -INFO - password provided
+2020-12-23 22:09:33,343 - AudiV1 -INFO - Login passed
+2020-12-23 22:09:40,045 - AudiV1 -INFO - user name provided
+2020-12-23 22:09:40,225 - AudiV1 -INFO - password provided
+2020-12-23 22:17:59,710 - AudiV1 -INFO - user name provided
+2020-12-23 22:18:01,206 - AudiV1 -INFO - password provided
+2020-12-23 22:18:15,410 - AudiV1 -INFO - Login passed
+2020-12-23 22:18:24,641 - AudiV1 -INFO - user name provided
+2020-12-23 22:18:24,818 - AudiV1 -INFO - password provided
+2020-12-23 22:18:31,770 - AudiV1 -INFO - user name provided
+2020-12-23 22:18:32,252 - AudiV1 -INFO - password provided
+2020-12-23 22:18:39,215 - AudiV1 -INFO - user name provided
+2020-12-23 22:18:39,604 - AudiV1 -INFO - password provided
+2020-12-23 22:18:44,368 - AudiV1 -INFO - Login passed
+2020-12-23 22:18:52,901 - AudiV1 -INFO - user name provided
+2020-12-23 22:18:53,330 - AudiV1 -INFO - password provided
+2020-12-23 22:59:18,120 - AudiV1 -INFO - URL is opened
+2020-12-23 22:59:27,911 - AudiV1 -INFO - User name is entered
+2020-12-23 22:59:32,716 - AudiV1 -INFO - Password is entered
+2020-12-23 22:59:36,503 - AudiV1 -INFO - Clicked submit
+2020-12-23 22:59:36,568 - AudiV1 -INFO - Login test passed
+2020-12-23 23:00:16,277 - AudiV1 -INFO - URL is opened
+2020-12-23 23:00:20,861 - AudiV1 -INFO - User name is entered
+2020-12-23 23:00:21,726 - AudiV1 -INFO - Password is entered
+2020-12-23 23:00:24,625 - AudiV1 -INFO - Clicked submit
+2020-12-27 11:04:23,590 - AudiV1 -INFO - URL is opened
+2020-12-27 11:04:56,157 - AudiV1 -INFO - User name is entered
+2020-12-27 11:05:00,341 - AudiV1 -INFO - Password is entered
+2020-12-27 11:05:10,730 - AudiV1 -INFO - Clicked submit
+2020-12-27 11:07:28,254 - AudiV1 -INFO - user name provided
+2020-12-27 11:07:28,704 - AudiV1 -INFO - password provided
+2020-12-27 11:07:34,897 - AudiV1 -INFO - Login passed
+2020-12-27 11:07:42,621 - AudiV1 -INFO - user name provided
+2020-12-27 11:07:42,852 - AudiV1 -INFO - password provided
+2020-12-27 11:07:50,132 - AudiV1 -INFO - user name provided
+2020-12-27 11:07:50,434 - AudiV1 -INFO - password provided
+2020-12-27 11:07:56,396 - AudiV1 -INFO - user name provided
+2020-12-27 11:07:56,626 - AudiV1 -INFO - password provided
+2020-12-27 11:08:02,200 - AudiV1 -INFO - Login passed
+2020-12-27 11:08:10,007 - AudiV1 -INFO - user name provided
+2020-12-27 11:08:10,264 - AudiV1 -INFO - password provided
+2020-12-27 23:25:15,407 - AudiV1 -INFO - User name is provided
+2020-12-27 23:25:15,854 - AudiV1 -INFO - Password is provided
+2020-12-27 23:30:55,566 - AudiV1 -INFO - User name is provided
+2020-12-27 23:30:55,779 - AudiV1 -INFO - Password is provided
+2020-12-27 23:45:21,385 - AudiV1 -INFO - User name is provided
+2020-12-27 23:45:22,091 - AudiV1 -INFO - Password is provided
+2020-12-27 23:45:27,433 - AudiV1 -INFO - Logged in
+2020-12-28 15:48:47,610 - AudiV1 -INFO - User name is provided
+2020-12-28 15:48:48,441 - AudiV1 -INFO - Password is provided
+2020-12-28 15:48:51,366 - AudiV1 -INFO - Logged in
+2020-12-28 15:58:07,731 - AudiV1 -INFO - User name is provided
+2020-12-28 15:58:08,223 - AudiV1 -INFO - Password is provided
+2020-12-28 15:58:23,562 - AudiV1 -INFO - Logged in
+2020-12-28 16:05:35,355 - AudiV1 -INFO - User name is provided
+2020-12-28 16:05:39,680 - AudiV1 -INFO - Password is provided
+2020-12-28 16:05:45,313 - AudiV1 -INFO - Logged in
+2020-12-28 16:09:33,796 - AudiV1 -INFO - User name is provided
+2020-12-28 16:09:34,580 - AudiV1 -INFO - Password is provided
+2020-12-28 16:09:40,759 - AudiV1 -INFO - Logged in
+2020-12-28 16:16:44,560 - AudiV1 -INFO - User name is provided
+2020-12-28 16:16:44,858 - AudiV1 -INFO - Password is provided
+2020-12-28 16:16:48,234 - AudiV1 -INFO - Logged in
+2020-12-28 16:30:03,746 - AudiV1 -INFO - User name is provided
+2020-12-28 16:30:04,559 - AudiV1 -INFO - Password is provided
+2020-12-28 16:30:08,264 - AudiV1 -INFO - Logged in
+2020-12-28 16:30:26,021 - AudiV1 -INFO - Validation Started.......
+2020-12-28 16:41:50,523 - AudiV1 -INFO - User name is provided
+2020-12-28 16:41:54,828 - AudiV1 -INFO - Password is provided
+2020-12-28 16:42:11,526 - AudiV1 -INFO - Logged in
+2020-12-28 16:42:29,868 - AudiV1 -INFO - Validation Started.......
+2020-12-28 16:44:14,887 - AudiV1 -INFO - User name is provided
+2020-12-28 16:44:15,114 - AudiV1 -INFO - Password is provided
+2020-12-28 16:44:17,263 - AudiV1 -INFO - Logged in
+2020-12-28 16:44:28,180 - AudiV1 -INFO - Validation Started.......
+2020-12-28 16:46:00,428 - AudiV1 -INFO - User name is provided
+2020-12-28 16:46:00,845 - AudiV1 -INFO - Password is provided
+2020-12-28 16:46:03,610 - AudiV1 -INFO - Logged in
+2020-12-28 16:46:19,443 - AudiV1 -INFO - Validation Started.......
+2020-12-28 16:46:20,430 - AudiV1 -INFO - Test case passed...
+2020-12-28 17:01:47,143 - AudiV1 -INFO - URL is opened
+2020-12-28 17:02:12,757 - AudiV1 -INFO - User name is entered
+2020-12-28 17:02:13,204 - AudiV1 -INFO - Password is entered
+2020-12-28 17:02:18,840 - AudiV1 -INFO - Clicked submit
+2020-12-28 17:02:45,589 - AudiV1 -INFO - user name provided
+2020-12-28 17:02:45,811 - AudiV1 -INFO - password provided
+2020-12-28 17:03:20,966 - AudiV1 -INFO - user name provided
+2020-12-28 17:03:21,446 - AudiV1 -INFO - password provided
+2020-12-28 17:03:32,848 - AudiV1 -INFO - Login passed
+2020-12-28 17:03:34,813 - AudiV1 -INFO - User name is provided
+2020-12-28 17:03:36,588 - AudiV1 -INFO - Password is provided
+2020-12-28 17:03:48,970 - AudiV1 -INFO - Logged in
+2020-12-28 17:03:54,737 - AudiV1 -INFO - user name provided
+2020-12-28 17:03:55,046 - AudiV1 -INFO - password provided
+2020-12-28 17:04:05,779 - AudiV1 -INFO - user name provided
+2020-12-28 17:04:06,030 - AudiV1 -INFO - password provided
+2020-12-28 17:04:15,927 - AudiV1 -INFO - user name provided
+2020-12-28 17:04:16,201 - AudiV1 -INFO - password provided
+2020-12-28 17:04:22,963 - AudiV1 -INFO - Login passed
+2020-12-28 17:04:32,695 - AudiV1 -INFO - user name provided
+2020-12-28 17:04:32,910 - AudiV1 -INFO - password provided
+2020-12-28 17:06:06,460 - AudiV1 -INFO - User name is provided
+2020-12-28 17:06:06,668 - AudiV1 -INFO - Password is provided
+2020-12-28 17:06:10,172 - AudiV1 -INFO - Logged in
+2020-12-28 17:06:25,397 - AudiV1 -INFO - Validation Started.......
+2020-12-28 17:06:25,581 - AudiV1 -INFO - Test case passed...
+2020-12-28 20:00:19,671 - AudiV1 -INFO - URL is opened
+2020-12-28 20:01:33,187 - AudiV1 -INFO - User name is entered
+2020-12-28 20:01:35,356 - AudiV1 -INFO - Password is entered
+2020-12-28 20:01:46,103 - AudiV1 -INFO - Clicked submit
+2020-12-28 20:02:33,946 - AudiV1 -INFO - user name provided
+2020-12-28 20:02:34,146 - AudiV1 -INFO - password provided
+2020-12-28 20:02:53,137 - AudiV1 -INFO - Login passed
+2020-12-28 20:03:00,494 - AudiV1 -INFO - user name provided
+2020-12-28 20:03:00,807 - AudiV1 -INFO - password provided
+2020-12-28 20:03:08,873 - AudiV1 -INFO - user name provided
+2020-12-28 20:03:09,180 - AudiV1 -INFO - password provided
+2020-12-28 20:03:14,753 - AudiV1 -INFO - user name provided
+2020-12-28 20:03:14,972 - AudiV1 -INFO - password provided
+2020-12-28 20:03:19,567 - AudiV1 -INFO - Login passed
+2020-12-28 20:03:30,168 - AudiV1 -INFO - user name provided
+2020-12-28 20:03:30,419 - AudiV1 -INFO - password provided
+2020-12-28 20:04:15,373 - AudiV1 -INFO - User name is provided
+2020-12-28 20:04:15,737 - AudiV1 -INFO - Password is provided
+2020-12-28 20:04:18,973 - AudiV1 -INFO - Logged in
+2020-12-28 20:04:33,501 - AudiV1 -INFO - Validation Started.......
+2020-12-28 20:04:33,601 - AudiV1 -INFO - Test case passed...
+2020-12-28 20:33:43,357 - AudiV1 -INFO - URL is opened
+2020-12-28 20:33:57,212 - AudiV1 -INFO - User name is entered
+2020-12-28 20:33:59,448 - AudiV1 -INFO - Password is entered
+2020-12-28 20:34:03,517 - AudiV1 -INFO - Clicked submit
+2020-12-28 20:34:18,873 - AudiV1 -INFO - User name is provided
+2020-12-28 20:34:22,486 - AudiV1 -INFO - Password is provided
+2020-12-28 20:34:25,164 - AudiV1 -INFO - Logged in
+2020-12-28 20:34:38,397 - AudiV1 -INFO - Validation Started.......
+2020-12-28 20:34:39,962 - AudiV1 -INFO - Test case passed...
+2020-12-28 20:39:38,869 - AudiV1 -INFO - URL is opened
+2020-12-28 20:39:46,742 - AudiV1 -INFO - User name is entered
+2020-12-28 20:39:46,997 - AudiV1 -INFO - Password is entered
+2020-12-28 20:39:50,492 - AudiV1 -INFO - Clicked submit
+2020-12-28 20:39:50,561 - AudiV1 -INFO - Login test passed
+2020-12-28 20:40:05,655 - AudiV1 -INFO - User name is provided
+2020-12-28 20:40:08,455 - AudiV1 -INFO - Password is provided
+2020-12-28 20:40:11,796 - AudiV1 -INFO - Logged in
+2020-12-28 20:40:25,300 - AudiV1 -INFO - Validation Started.......
+2020-12-28 20:40:25,616 - AudiV1 -INFO - Test case passed...
+2020-12-28 22:46:26,883 - AudiV1 -INFO - URL is opened
+2020-12-28 22:47:02,646 - AudiV1 -INFO - User name is entered
+2020-12-28 22:47:12,572 - AudiV1 -INFO - Password is entered
+2020-12-28 22:47:19,609 - AudiV1 -INFO - Clicked submit
+2020-12-28 22:47:19,782 - AudiV1 -INFO - Login test passed
+2020-12-28 22:48:13,227 - AudiV1 -INFO - User name is provided
+2020-12-28 22:48:13,475 - AudiV1 -INFO - Password is provided
+2020-12-28 22:48:17,001 - AudiV1 -INFO - Logged in
+2020-12-28 22:48:32,421 - AudiV1 -INFO - Validation Started.......
+2020-12-28 22:48:33,370 - AudiV1 -INFO - Test case passed...
+2020-12-28 23:27:56,432 - AudiV1 -INFO - URL is opened
+2020-12-28 23:28:07,847 - AudiV1 -INFO - User name is entered
+2020-12-28 23:28:08,077 - AudiV1 -INFO - Password is entered
+2020-12-28 23:28:12,397 - AudiV1 -INFO - Clicked submit
+2020-12-28 23:28:12,477 - AudiV1 -INFO - Login test passed
+2020-12-28 23:28:41,462 - AudiV1 -INFO - User name is provided
+2020-12-28 23:28:44,897 - AudiV1 -INFO - Password is provided
+2020-12-28 23:28:45,967 - AudiV1 -INFO - Logged in
+2020-12-28 23:29:02,402 - AudiV1 -INFO - Validation Started.......
+2020-12-28 23:29:02,562 - AudiV1 -INFO - Test case passed...
+2020-12-28 23:56:52,884 - AudiV1 -INFO - URL is opened
+2020-12-28 23:57:17,854 - AudiV1 -INFO - User name is entered
+2020-12-28 23:57:23,506 - AudiV1 -INFO - Password is entered
+2020-12-28 23:57:26,028 - AudiV1 -INFO - Clicked submit
+2020-12-28 23:57:26,084 - AudiV1 -INFO - Login test passed
+2020-12-28 23:57:44,781 - AudiV1 -INFO - User name is provided
+2020-12-28 23:57:45,037 - AudiV1 -INFO - Password is provided
+2020-12-28 23:57:47,557 - AudiV1 -INFO - Logged in
+2020-12-28 23:57:59,171 - AudiV1 -INFO - Validation Started.......
+2021-01-02 18:16:17,268 - AudiV1 -INFO - URL is opened
+2021-01-02 18:16:37,570 - AudiV1 -INFO - User name is entered
+2021-01-02 18:16:37,930 - AudiV1 -INFO - Password is entered
+2021-01-02 18:16:39,813 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:16:55,202 - AudiV1 -INFO - User name is provided
+2021-01-02 18:16:55,494 - AudiV1 -INFO - Password is provided
+2021-01-02 18:16:57,278 - AudiV1 -INFO - Logged in
+2021-01-02 18:19:32,465 - AudiV1 -INFO - URL is opened
+2021-01-02 18:19:33,486 - AudiV1 -INFO - User name is entered
+2021-01-02 18:19:33,841 - AudiV1 -INFO - Password is entered
+2021-01-02 18:19:35,461 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:19:49,872 - AudiV1 -INFO - User name is provided
+2021-01-02 18:19:50,100 - AudiV1 -INFO - Password is provided
+2021-01-02 18:19:51,449 - AudiV1 -INFO - Logged in
+2021-01-02 18:25:14,012 - AudiV1 -INFO - URL is opened
+2021-01-02 18:25:15,350 - AudiV1 -INFO - User name is entered
+2021-01-02 18:25:15,610 - AudiV1 -INFO - Password is entered
+2021-01-02 18:25:17,255 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:25:29,762 - AudiV1 -INFO - User name is provided
+2021-01-02 18:25:30,155 - AudiV1 -INFO - Password is provided
+2021-01-02 18:25:31,975 - AudiV1 -INFO - Logged in
+2021-01-02 18:36:11,403 - AudiV1 -INFO - URL is opened
+2021-01-02 18:36:12,563 - AudiV1 -INFO - User name is entered
+2021-01-02 18:36:12,842 - AudiV1 -INFO - Password is entered
+2021-01-02 18:36:14,257 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:36:25,886 - AudiV1 -INFO - User name is provided
+2021-01-02 18:36:26,179 - AudiV1 -INFO - Password is provided
+2021-01-02 18:36:27,644 - AudiV1 -INFO - Logged in
+2021-01-02 18:41:40,135 - AudiV1 -INFO - URL is opened
+2021-01-02 18:41:43,140 - AudiV1 -INFO - User name is entered
+2021-01-02 18:41:43,405 - AudiV1 -INFO - Password is entered
+2021-01-02 18:41:45,045 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:41:57,364 - AudiV1 -INFO - User name is provided
+2021-01-02 18:41:57,728 - AudiV1 -INFO - Password is provided
+2021-01-02 18:41:58,807 - AudiV1 -INFO - Logged in
+2021-01-02 18:44:30,741 - AudiV1 -INFO - URL is opened
+2021-01-02 18:44:33,515 - AudiV1 -INFO - User name is entered
+2021-01-02 18:44:34,117 - AudiV1 -INFO - Password is entered
+2021-01-02 18:44:36,599 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:44:48,381 - AudiV1 -INFO - User name is provided
+2021-01-02 18:44:48,612 - AudiV1 -INFO - Password is provided
+2021-01-02 18:44:49,888 - AudiV1 -INFO - Logged in
+2021-01-02 18:48:10,339 - AudiV1 -INFO - URL is opened
+2021-01-02 18:48:13,352 - AudiV1 -INFO - User name is entered
+2021-01-02 18:48:13,760 - AudiV1 -INFO - Password is entered
+2021-01-02 18:48:15,728 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:48:27,123 - AudiV1 -INFO - User name is provided
+2021-01-02 18:48:27,342 - AudiV1 -INFO - Password is provided
+2021-01-02 18:48:28,892 - AudiV1 -INFO - Logged in
+2021-01-02 18:49:25,736 - AudiV1 -INFO - URL is opened
+2021-01-02 18:49:26,195 - AudiV1 -INFO - User name is entered
+2021-01-02 18:49:26,398 - AudiV1 -INFO - Password is entered
+2021-01-02 18:49:27,870 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:49:38,929 - AudiV1 -INFO - User name is provided
+2021-01-02 18:49:39,178 - AudiV1 -INFO - Password is provided
+2021-01-02 18:49:40,842 - AudiV1 -INFO - Logged in
+2021-01-02 18:54:47,747 - AudiV1 -INFO - URL is opened
+2021-01-02 18:54:48,518 - AudiV1 -INFO - User name is entered
+2021-01-02 18:54:48,780 - AudiV1 -INFO - Password is entered
+2021-01-02 18:54:50,348 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:55:01,970 - AudiV1 -INFO - User name is provided
+2021-01-02 18:55:02,279 - AudiV1 -INFO - Password is provided
+2021-01-02 18:55:06,547 - AudiV1 -INFO - Logged in
+2021-01-02 18:57:13,583 - AudiV1 -INFO - URL is opened
+2021-01-02 18:57:14,575 - AudiV1 -INFO - User name is entered
+2021-01-02 18:57:14,811 - AudiV1 -INFO - Password is entered
+2021-01-02 18:57:17,071 - AudiV1 -INFO - Clicked submit
+2021-01-02 18:57:17,118 - AudiV1 -INFO - Login test passed
+2021-01-02 18:57:32,458 - AudiV1 -INFO - User name is provided
+2021-01-02 18:57:33,493 - AudiV1 -INFO - Password is provided
+2021-01-02 18:57:40,615 - AudiV1 -INFO - Logged in
+2021-01-02 18:57:47,062 - AudiV1 -INFO - Providing Customer details...
+2021-01-02 18:57:55,852 - AudiV1 -INFO - Validation Started.......
+2021-01-02 18:57:56,010 - AudiV1 -INFO - Test case passed...
+2021-01-02 19:29:55,388 - AudiV1 -INFO - URL is opened
+2021-01-02 19:30:21,669 - AudiV1 -INFO - User name is entered
+2021-01-02 19:30:22,111 - AudiV1 -INFO - Password is entered
+2021-01-02 19:30:27,445 - AudiV1 -INFO - Clicked submit
+2021-01-02 19:30:27,493 - AudiV1 -INFO - Login test passed
+2021-01-02 19:31:00,198 - AudiV1 -INFO - User name is provided
+2021-01-02 19:31:00,471 - AudiV1 -INFO - Password is provided
+2021-01-02 19:31:06,570 - AudiV1 -INFO - Logged in
+2021-01-02 19:31:13,574 - AudiV1 -INFO - Providing Customer details...
+2021-01-02 19:31:22,317 - AudiV1 -INFO - Validation Started.......
+2021-01-02 19:31:22,801 - AudiV1 -INFO - Test case passed...
+2021-01-03 17:42:33,538 - AudiV1 -INFO - URL is opened
+2021-01-03 17:42:55,269 - AudiV1 -INFO - User name is entered
+2021-01-03 17:42:55,493 - AudiV1 -INFO - Password is entered
+2021-01-03 17:42:57,353 - AudiV1 -INFO - Clicked submit
+2021-01-03 17:42:57,385 - AudiV1 -INFO - Login test passed
+2021-01-03 17:43:08,423 - AudiV1 -INFO - User name is provided
+2021-01-03 17:43:08,655 - AudiV1 -INFO - Password is provided
+2021-01-03 17:43:13,568 - AudiV1 -INFO - Logged in
+2021-01-03 17:43:18,284 - AudiV1 -INFO - Providing Customer details...
+2021-01-03 17:43:26,815 - AudiV1 -INFO - Validation Started.......
+2021-01-03 17:43:26,983 - AudiV1 -INFO - Test case passed...
+2021-01-03 19:48:24,980 - AudiV1 -INFO - URL is opened
+2021-01-03 20:12:35,093 - AudiV1 -INFO - User name is provided
+2021-01-03 20:12:35,394 - AudiV1 -INFO - Password is provided
+2021-01-03 20:12:41,343 - AudiV1 -INFO - Logged in
+2021-01-03 20:12:47,149 - AudiV1 -INFO - Providing Customer details...
+2021-01-03 20:12:56,113 - AudiV1 -INFO - Validation Started.......
+2021-01-03 20:12:56,310 - AudiV1 -INFO - Test case passed...
+2021-01-03 23:26:17,094 - AudiV1 -INFO - URL is opened
+2021-01-03 23:26:17,379 - AudiV1 -INFO - Login page.......
+2021-01-03 23:26:17,464 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 08:05:02,310 - AudiV1 -INFO - URL is opened
+2021-01-04 08:05:02,889 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 08:17:38,100 - AudiV1 -INFO - URL is opened
+2021-01-04 08:17:38,439 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 08:18:37,648 - AudiV1 -INFO - Login page displayed
+2021-01-04 08:18:47,650 - AudiV1 -INFO - User name is entered
+2021-01-04 08:18:48,470 - AudiV1 -INFO - Password is entered
+2021-01-04 08:18:50,864 - AudiV1 -INFO - Clicked submit
+2021-01-04 08:18:50,893 - AudiV1 -INFO - Login test passed
+2021-01-04 08:19:03,369 - AudiV1 -INFO - User name is provided
+2021-01-04 08:19:03,707 - AudiV1 -INFO - Password is provided
+2021-01-04 08:19:08,999 - AudiV1 -INFO - Logged in
+2021-01-04 08:19:13,720 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:19:22,023 - AudiV1 -INFO - Validation Started.......
+2021-01-04 08:19:22,077 - AudiV1 -INFO - Test case passed...
+2021-01-04 08:22:29,074 - AudiV1 -INFO - URL is opened
+2021-01-04 08:22:29,413 - AudiV1 -INFO - Test case failed...
+2021-01-04 08:22:45,249 - AudiV1 -INFO - User name is provided
+2021-01-04 08:22:45,586 - AudiV1 -INFO - Password is provided
+2021-01-04 08:22:50,738 - AudiV1 -INFO - Logged in
+2021-01-04 08:22:55,368 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:23:03,199 - AudiV1 -INFO - Validation Started.......
+2021-01-04 08:23:03,291 - AudiV1 -INFO - Test case passed...
+2021-01-04 08:23:31,513 - AudiV1 -INFO - URL is opened
+2021-01-04 08:23:31,697 - AudiV1 -INFO - Test case failed...
+2021-01-04 08:24:50,977 - AudiV1 -INFO - URL is opened
+2021-01-04 08:24:51,193 - AudiV1 -INFO - Test case failed...
+2021-01-04 08:25:01,701 - AudiV1 -INFO - User name is provided
+2021-01-04 08:25:01,954 - AudiV1 -INFO - Password is provided
+2021-01-04 08:25:07,097 - AudiV1 -INFO - Logged in
+2021-01-04 08:25:11,625 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:28:42,275 - AudiV1 -INFO - URL is opened
+2021-01-04 08:28:42,504 - AudiV1 -INFO - Test case failed...
+2021-01-04 08:29:48,865 - AudiV1 -INFO - URL is opened
+2021-01-04 08:29:49,082 - AudiV1 -INFO - Test case failed...
+2021-01-04 08:34:37,650 - AudiV1 -INFO - URL is opened
+2021-01-04 08:34:37,882 - AudiV1 -INFO - Login page displayed
+2021-01-04 08:34:48,419 - AudiV1 -INFO - User name is provided
+2021-01-04 08:34:48,640 - AudiV1 -INFO - Password is provided
+2021-01-04 08:34:53,790 - AudiV1 -INFO - Logged in
+2021-01-04 08:34:58,266 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:35:05,105 - AudiV1 -INFO - Validation Started.......
+2021-01-04 08:40:08,222 - AudiV1 -INFO - URL is opened
+2021-01-04 08:40:08,400 - AudiV1 -INFO - Login page displayed
+2021-01-04 08:40:18,537 - AudiV1 -INFO - User name is provided
+2021-01-04 08:40:18,788 - AudiV1 -INFO - Password is provided
+2021-01-04 08:40:23,154 - AudiV1 -INFO - Logged in
+2021-01-04 08:40:27,773 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:41:17,277 - AudiV1 -INFO - URL is opened
+2021-01-04 08:41:17,490 - AudiV1 -INFO - Login page displayed
+2021-01-04 08:41:17,860 - AudiV1 -INFO - User name is entered
+2021-01-04 08:41:18,114 - AudiV1 -INFO - Password is entered
+2021-01-04 08:41:20,017 - AudiV1 -INFO - Clicked submit
+2021-01-04 08:41:20,050 - AudiV1 -INFO - Login test passed
+2021-01-04 08:41:30,334 - AudiV1 -INFO - User name is provided
+2021-01-04 08:41:30,571 - AudiV1 -INFO - Password is provided
+2021-01-04 08:41:35,651 - AudiV1 -INFO - Logged in
+2021-01-04 08:41:40,182 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 08:41:47,912 - AudiV1 -INFO - Validation Started.......
+2021-01-04 08:41:48,012 - AudiV1 -INFO - Test case passed...
+2021-01-04 21:08:31,689 - AudiV1 -INFO - URL is opened
+2021-01-04 21:08:32,630 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 21:26:44,217 - AudiV1 -INFO - URL is opened
+2021-01-04 21:26:48,770 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 21:28:57,153 - AudiV1 -INFO - User name is provided
+2021-01-04 21:28:57,683 - AudiV1 -INFO - Password is provided
+2021-01-04 21:29:09,612 - AudiV1 -INFO - Logged in
+2021-01-04 21:29:17,979 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 21:29:26,493 - AudiV1 -INFO - Validation Started.......
+2021-01-04 21:29:26,772 - AudiV1 -INFO - Test case failed...
+2021-01-04 21:42:24,406 - AudiV1 -INFO - URL is opened
+2021-01-04 21:43:10,447 - AudiV1 -INFO - URL is opened
+2021-01-04 21:43:11,163 - AudiV1 -INFO - Login page displayed
+2021-01-04 21:43:12,564 - AudiV1 -INFO - User name is entered
+2021-01-04 21:43:12,861 - AudiV1 -INFO - Password is entered
+2021-01-04 21:43:18,074 - AudiV1 -INFO - Clicked submit
+2021-01-04 21:43:18,282 - AudiV1 -INFO - Login test passed
+2021-01-04 21:43:33,149 - AudiV1 -INFO - User name is provided
+2021-01-04 21:43:33,576 - AudiV1 -INFO - Password is provided
+2021-01-04 21:43:40,994 - AudiV1 -INFO - Logged in
+2021-01-04 21:43:46,692 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 21:43:56,348 - AudiV1 -INFO - Validation Started.......
+2021-01-04 21:47:11,202 - AudiV1 -INFO - URL is opened
+2021-01-04 21:47:12,185 - AudiV1 -INFO - Login page displayed
+2021-01-04 21:47:13,534 - AudiV1 -INFO - User name is entered
+2021-01-04 21:47:14,096 - AudiV1 -INFO - Password is entered
+2021-01-04 21:47:21,033 - AudiV1 -INFO - Clicked submit
+2021-01-04 21:47:21,237 - AudiV1 -INFO - Login test passed
+2021-01-04 21:47:36,675 - AudiV1 -INFO - User name is provided
+2021-01-04 21:47:37,070 - AudiV1 -INFO - Password is provided
+2021-01-04 21:47:48,418 - AudiV1 -INFO - Logged in
+2021-01-04 21:47:57,464 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 21:48:14,129 - AudiV1 -INFO - Validation Started.......
+2021-01-04 21:48:14,379 - AudiV1 -INFO - Test case passed...
+2021-01-04 22:11:27,025 - AudiV1 -INFO - User name is provided
+2021-01-04 22:11:27,386 - AudiV1 -INFO - Password is provided
+2021-01-04 22:11:35,284 - AudiV1 -INFO - Logged in
+2021-01-04 22:11:42,449 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 22:11:54,878 - AudiV1 -INFO - Validation Started.......
+2021-01-04 22:11:55,231 - AudiV1 -INFO - Test case passed...
+2021-01-04 22:18:07,794 - AudiV1 -INFO - URL is opened
+2021-01-04 22:18:08,418 - AudiV1 -INFO - Login page displayed
+2021-01-04 22:18:10,100 - AudiV1 -INFO - User name is entered
+2021-01-04 22:18:10,404 - AudiV1 -INFO - Password is entered
+2021-01-04 22:18:17,426 - AudiV1 -INFO - Clicked submit
+2021-01-04 22:18:17,506 - AudiV1 -INFO - Login test passed
+2021-01-04 22:50:28,950 - AudiV1 -INFO - URL is opened
+2021-01-04 22:50:30,343 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 22:56:02,096 - AudiV1 -INFO - URL is opened
+2021-01-04 22:56:02,560 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 23:15:16,003 - AudiV1 -INFO - URL is opened
+2021-01-04 23:15:28,621 - AudiV1 -INFO - Warning message displayed...
+2021-01-04 23:23:11,211 - AudiV1 -INFO - URL is opened
+2021-01-04 23:23:13,171 - AudiV1 -INFO - Login page displayed
+2021-01-04 23:23:17,634 - AudiV1 -INFO - User name is entered
+2021-01-04 23:23:18,127 - AudiV1 -INFO - Password is entered
+2021-01-04 23:23:28,445 - AudiV1 -INFO - Clicked submit
+2021-01-04 23:23:28,471 - AudiV1 -INFO - Login test passed
+2021-01-04 23:24:21,129 - AudiV1 -INFO - User name is provided
+2021-01-04 23:24:21,964 - AudiV1 -INFO - Password is provided
+2021-01-04 23:24:34,278 - AudiV1 -INFO - Logged in
+2021-01-04 23:24:48,216 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:24:59,279 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:29:45,362 - AudiV1 -INFO - User name is provided
+2021-01-04 23:29:47,065 - AudiV1 -INFO - Password is provided
+2021-01-04 23:29:55,723 - AudiV1 -INFO - Logged in
+2021-01-04 23:30:03,225 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:30:10,451 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:32:59,299 - AudiV1 -INFO - User name is provided
+2021-01-04 23:32:59,690 - AudiV1 -INFO - Password is provided
+2021-01-04 23:33:07,795 - AudiV1 -INFO - Logged in
+2021-01-04 23:33:15,131 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:33:21,171 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:36:38,164 - AudiV1 -INFO - User name is provided
+2021-01-04 23:36:38,490 - AudiV1 -INFO - Password is provided
+2021-01-04 23:36:48,339 - AudiV1 -INFO - Logged in
+2021-01-04 23:36:54,393 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:37:01,647 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:43:09,177 - AudiV1 -INFO - User name is provided
+2021-01-04 23:43:09,331 - AudiV1 -INFO - Password is provided
+2021-01-04 23:43:16,191 - AudiV1 -INFO - Logged in
+2021-01-04 23:43:22,516 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:43:22,879 - AudiV1 -INFO - customername is entered
+2021-01-04 23:43:23,003 - AudiV1 -INFO - Gender is selected
+2021-01-04 23:43:23,207 - AudiV1 -INFO - dob is entered
+2021-01-04 23:43:23,330 - AudiV1 -INFO - address is entered
+2021-01-04 23:43:23,468 - AudiV1 -INFO - city is entered
+2021-01-04 23:43:23,573 - AudiV1 -INFO - state is entered
+2021-01-04 23:43:23,794 - AudiV1 -INFO - pin is entered
+2021-01-04 23:43:23,924 - AudiV1 -INFO - mobileNumber is entered
+2021-01-04 23:43:24,076 - AudiV1 -INFO - email is entered
+2021-01-04 23:43:24,196 - AudiV1 -INFO - password is entered
+2021-01-04 23:43:28,363 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:44:59,433 - AudiV1 -INFO - User name is provided
+2021-01-04 23:44:59,578 - AudiV1 -INFO - Password is provided
+2021-01-04 23:45:05,967 - AudiV1 -INFO - Logged in
+2021-01-04 23:45:11,030 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:45:11,217 - AudiV1 -INFO - customername is entered
+2021-01-04 23:45:11,387 - AudiV1 -INFO - Gender is selected
+2021-01-04 23:45:11,587 - AudiV1 -INFO - dob is entered
+2021-01-04 23:45:11,712 - AudiV1 -INFO - address is entered
+2021-01-04 23:45:11,924 - AudiV1 -INFO - city is entered
+2021-01-04 23:45:12,023 - AudiV1 -INFO - state is entered
+2021-01-04 23:45:12,136 - AudiV1 -INFO - pin is entered
+2021-01-04 23:45:12,236 - AudiV1 -INFO - mobileNumber is entered
+2021-01-04 23:45:12,355 - AudiV1 -INFO - email is entered
+2021-01-04 23:45:12,457 - AudiV1 -INFO - password is entered
+2021-01-04 23:45:16,657 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:46:47,470 - AudiV1 -INFO - User name is provided
+2021-01-04 23:46:47,620 - AudiV1 -INFO - Password is provided
+2021-01-04 23:46:53,822 - AudiV1 -INFO - Logged in
+2021-01-04 23:46:59,429 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:46:59,719 - AudiV1 -INFO - customername is entered
+2021-01-04 23:46:59,890 - AudiV1 -INFO - Gender is selected
+2021-01-04 23:47:03,079 - AudiV1 -INFO - dob is entered
+2021-01-04 23:47:06,228 - AudiV1 -INFO - address is entered
+2021-01-04 23:47:06,398 - AudiV1 -INFO - city is entered
+2021-01-04 23:47:06,491 - AudiV1 -INFO - state is entered
+2021-01-04 23:47:06,591 - AudiV1 -INFO - pin is entered
+2021-01-04 23:47:06,708 - AudiV1 -INFO - mobileNumber is entered
+2021-01-04 23:47:06,836 - AudiV1 -INFO - email is entered
+2021-01-04 23:47:06,921 - AudiV1 -INFO - password is entered
+2021-01-04 23:47:11,102 - AudiV1 -INFO - Validation Started.......
+2021-01-04 23:50:01,594 - AudiV1 -INFO - User name is provided
+2021-01-04 23:50:01,909 - AudiV1 -INFO - Password is provided
+2021-01-04 23:50:08,571 - AudiV1 -INFO - Logged in
+2021-01-04 23:50:17,669 - AudiV1 -INFO - Providing Customer details...
+2021-01-04 23:50:17,820 - AudiV1 -INFO - customername is entered
+2021-01-04 23:50:18,016 - AudiV1 -INFO - Gender is selected
+2021-01-04 23:50:24,268 - AudiV1 -INFO - dob is entered
+2021-01-04 23:50:27,459 - AudiV1 -INFO - address is entered
+2021-01-04 23:50:27,932 - AudiV1 -INFO - city is entered
+2021-01-04 23:50:28,031 - AudiV1 -INFO - state is entered
+2021-01-04 23:50:28,179 - AudiV1 -INFO - pin is entered
+2021-01-04 23:50:28,326 - AudiV1 -INFO - mobileNumber is entered
+2021-01-04 23:50:28,458 - AudiV1 -INFO - email is entered
+2021-01-04 23:50:28,570 - AudiV1 -INFO - password is entered
+2021-01-04 23:50:33,375 - AudiV1 -INFO - Validation Started.......

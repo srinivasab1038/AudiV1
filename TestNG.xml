@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AudiV1">
+
+<listeners>
+<listener class-name="com.AudiV1.utilities.Reporting"/>
+
+</listeners>
+
+<!-- <test name= "BankingApp Test1">
+	<parameter name="browser" value="chrome" />
+	<classes>
+		<class name="com.AudiV1.testCases.TC_LoginTest_001" />
+		<class name="com.AudiV1.testCases.TC_LoginDDT_002" />
+		<class name="com.AudiV1.testCases.TC_AddNewCustomer" />		
+	</classes>
+	
+</test> -->
+<test name= "BankingApp Test2">
+	<parameter name="browser" value="firefox" />
+	<classes>
+		<!-- <class name="com.AudiV1.testCases.TC_LoginTest_001" /> -->
+		<!-- <class name="com.AudiV1.testCases.TC_LoginDDT_002" /> -->
+		<class name="com.AudiV1.testCases.TC_AddNewCustomer" />	
+	</classes>
+	
+</test>
+</suite>

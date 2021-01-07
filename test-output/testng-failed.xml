@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AudiV1]">
+  <listeners>
+    <listener class-name="com.AudiV1.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="BankingApp Test2(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.AudiV1.testCases.TC_AddNewCustomer">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.AudiV1.testCases.TC_AddNewCustomer -->
+    </classes>
+  </test> <!-- BankingApp Test2(failed) -->
+</suite> <!-- Failed suite [AudiV1] -->

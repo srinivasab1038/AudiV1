@@ -1,0 +1,9 @@
+com\AudiV1\pageObjects\LoginPage.class
+com\AudiV1\utilities\XLUtils.class
+com\AudiV1\testCases\TC_AddNewCustomer.class
+com\AudiV1\utilities\Reporting.class
+com\AudiV1\testCases\TC_LoginDDT_002.class
+com\AudiV1\testCases\TC_LoginTest_001.class
+com\AudiV1\testCases\BaseClass.class
+com\AudiV1\pageObjects\AddCustomerPage.class
+com\AudiV1\utilities\ReadConfig.class
